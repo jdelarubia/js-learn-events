@@ -1,0 +1,26 @@
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  color-scheme: dark !important;
+}
+body {
+  background-color: #232323;
+  font-family: Roboto, Tahoma, Geneva, sans-serif;
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+}
+h1 {
+  margin: 0;
+  font-size: 1.3rem;
+}
+button {
+  padding: 0.5rem 1rem;
+}
+
+div#box {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
