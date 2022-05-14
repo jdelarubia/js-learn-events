@@ -8,4 +8,5 @@ To run the examples, you need a local development server. It needs to access Jav
 
 ## Examples
 
-- [Toggle colors](./togglecolor.html) Trivial example that toggles the background color of a div between blue and red
+- [Toggle colors](./toggle/index.html) Trivial example that toggles the background color of a div between blue and red
+- [Toggle visibility](./visibility/index.html) toggles visibility of an object.
